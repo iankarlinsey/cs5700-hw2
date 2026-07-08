@@ -1,0 +1,7 @@
+build/
+.gradle/
+.idea/
+*.class
+songs_and_recordings.zip
+__MACOSX/
+gradle.properties
